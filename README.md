@@ -7,8 +7,9 @@ The application is fully deployed on Render, allowing users to access the model 
 
 🌐 Live Demo
 
-🚀 Deployed Application:
-[https://heart-disease-predictor.onrender.com](https://heart-disease-predictor-w4ff.onrender.com)
+  🚀 Deployed Application:
+  [https://heart-disease-predictor.onrender.com](https://heart-disease-predictor-w4ff.onrender.com)
+
 
 🧠 Features Used
 
@@ -26,6 +27,7 @@ MaxHR - Maximum heart rate achieved
 
 Oldpeak - ST depression induced by exercise
 
+
 📊 Model Details
 
 Algorithm Used: (RandomForestClassifier with score 81%)
@@ -37,6 +39,7 @@ Output:
 0 → No Heart Disease
 
 1 → Heart Disease Detected
+
 
 🖥️ Application Features
 
@@ -50,6 +53,7 @@ Clean UI using HTML & CSS
 
 Backend powered by Flask
 
+
 🗂️ Project Structure
 heart-disease-predictor/
 │
@@ -59,6 +63,8 @@ heart-disease-predictor/
 ├── templates/
 │   └── index.html
 └── README.md
+
+
 ⚙️ Technologies Used
 
 Python
