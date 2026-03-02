@@ -54,15 +54,18 @@ Clean UI using HTML & CSS
 Backend powered by Flask
 
 
-🗂️ Project Structure
+## 🗂️ Project Structure
+
+```
 heart-disease-predictor/
 │
-├── app.py
-├── model.pkl
-├── requirements.txt
+├── app.py              # Flask backend
+├── model.pkl           # Trained ML model
+├── requirements.txt    # Project dependencies
 ├── templates/
-│   └── index.html
+│   └── index.html      # Frontend UI
 └── README.md
+```
 
 
 ⚙️ Technologies Used
