@@ -1,34 +1,34 @@
-❤️ Heart Disease Predictor
+# ❤️ Heart Disease Predictor
 📌 Project Overview
 
 Heart Disease Predictor is a Machine Learning web application that predicts the likelihood of heart disease using key medical attributes.
 
 The application is fully deployed on Render, allowing users to access the model online in real-time.
 
-🌐 Live Demo
+## 🌐 Live Demo
 
   🚀 Deployed Application:
   [https://heart-disease-predictor.onrender.com](https://heart-disease-predictor-w4ff.onrender.com)
 
 
-🧠 Features Used
+## 🧠 Features Used
 
-The model takes the following medical parameters:
+- The model takes the following medical parameters:
 
-Age - Patient age
+- Age - Patient age
 
-RestingBP - Resting blood pressure
+- RestingBP - Resting blood pressure
 
-Cholesterol - Serum cholesterol level
+- Cholesterol - Serum cholesterol level
 
-FastingBS - Fasting blood sugar (1 = high, 0 = normal)
+- FastingBS - Fasting blood sugar (1 = high, 0 = normal)
 
-MaxHR - Maximum heart rate achieved
+- MaxHR - Maximum heart rate achieved
 
-Oldpeak - ST depression induced by exercise
+- Oldpeak - ST depression induced by exercise
 
 
-📊 Model Details
+## 📊 Model Details
 
 Algorithm Used: (RandomForestClassifier with score 81%)
 
@@ -41,7 +41,7 @@ Output:
 1 → Heart Disease Detected
 
 
-🖥️ Application Features
+## 🖥️ Application Features
 
 User-friendly input form
 
@@ -68,7 +68,7 @@ heart-disease-predictor/
 ```
 
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Python
 
@@ -92,6 +92,3 @@ cd heart-disease-predictor
 pip install -r requirements.txt
 python app.py
 ```
-Open:
-
-http://127.0.0.1:5000/
